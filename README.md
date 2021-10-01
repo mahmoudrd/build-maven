@@ -1,2 +1,2 @@
-# build-maven
-builds the project using maven and then archives the artifact
+# deploy-maven
+copy the artifact and depkoy the war file
